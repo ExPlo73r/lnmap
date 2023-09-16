@@ -52,5 +52,4 @@ do
     echo "----------------------------------------" >> RESULTADO.txt
 done < target.txt
 
-echo "Escaneo completado. Los resultados se han guardado en output.txt."
-txt."
+echo "Escaneo completado. Los resultados se han guardado en RESULTADO.txt."
